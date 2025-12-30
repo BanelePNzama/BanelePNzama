@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @BanelePNzama
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning Java, C#, HTML, CSS and Js and MySQL
+- 👋 Hi, I’m Banele Promise Nzama
+- 👀 I’m interested in software development
+- 🌱 I’m currently learning Java, C#, HTML, CSS and JavaScript and SQL
 - 💞️ I’m looking to collaborate on...
 - 📫 How to reach me... you can reach me on my email banelepnzama@gmail.com
-- or on outlook 22220102@live.mut.ac.za 
+- or on outlook banelepnzama@gmail.com
 
 <!---
 BanelePNzama/BanelePNzama is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
